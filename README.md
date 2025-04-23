@@ -1,2 +1,5 @@
 # Formulario_Banco_de_Dados
-Formulario para aula de banco de dados
+
+Formulario teste criado para uso nas aulas de banco de dados.
+
+Objetivo de integrar o formulario com um banco de dados para salvar informações.
